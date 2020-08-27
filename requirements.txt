@@ -1,0 +1,2 @@
+qtpy5
+hidapi

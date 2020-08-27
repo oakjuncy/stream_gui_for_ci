@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/golden-array-svg.ico</file>
+        <file>pic/ic_play_circle_outline_black_36dp.png</file>
+        <file>pic/ic_delete_black_36dp.png</file>
+        <file>pic/ic_delete_white_36dp.png</file>
+        <file>pic/ic_pause_circle_outline_black_36dp.png</file>
+        <file>pic/ic_pause_circle_outline_white_36dp.png</file>
+        <file>pic/ic_play_circle_outline_white_36dp.png</file>
+        <file>pic/ic_refresh_black_36dp.png</file>
+        <file>pic/ic_refresh_white_36dp.png</file>
+        <file>pic/ic_arrow_forward_black_36dp.png</file>
+        <file>pic/ic_arrow_forward_white_36dp.png</file>
+        <file>pic/ic_brush_black_36dp.png</file>
+        <file>pic/ic_brush_white_36dp.png</file>
+        <file>pic/ic_cancel_black_36dp.png</file>
+        <file>pic/ic_cancel_white_36dp.png</file>
+        <file>pic/ic_close_black_36dp.png</file>
+        <file>pic/ic_close_white_36dp.png</file>
+        <file>pic/ic_edit_black_36dp.png</file>
+        <file>pic/ic_edit_white_36dp.png</file>
+        <file>pic/ic_keyboard_arrow_right_black_36dp.png</file>
+        <file>pic/ic_keyboard_arrow_right_white_36dp.png</file>
+        <file>pic/ic_open_in_new_black_36dp.png</file>
+        <file>pic/ic_open_in_new_white_36dp.png</file>
+        <file>pic/ic_build_black_36dp.png</file>
+        <file>pic/ic_build_white_36dp.png</file>
+        <file>pic/jlsemi-logo-en-white.png</file>
+        <file>pic/ic_usb_white_48pt_2x.png</file>
+        <file>pic/ic_usb_white_no_48pt.png</file>
+        <file>pic/ic_minimized_white_36dp.png</file>
+        <file>pic/ic_pause_circle_outline_red_36dp.png</file>
+        <file>pic/ic_play_circle_outline_green_36dp.png</file>
+        <file>pic/jlsemi-logo-en.png</file>
+        <file>pic/jlsemi-logo-en-big.png</file>
+    </qresource>
+</RCC>
